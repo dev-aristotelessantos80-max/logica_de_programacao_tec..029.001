@@ -11,7 +11,7 @@ resto = n1 % n2
 
 # saida de dados
 print(f"Soma: {soma}")
-print(f"Subracao: {subtracao}")
-print(f"Multiplicacao: {subtracao}")
-print(f"Divisao: {divisao}")
+print(f"Subração: {subtracao}")
+print(f"Multiplicação: {subtracao}")
+print(f"Divisão: {divisao}")
 print(f"Resto da divisao: {resto}")
